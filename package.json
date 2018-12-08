@@ -92,12 +92,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yegao/entrance.git"
+    "url": "git+https://github.com/yegao/entrance-vue.git"
   },
   "bugs": {
-    "url": "https://github.com/yegao/entrance/issues"
+    "url": "https://github.com/yegao/entrance-vue/issues"
   },
-  "homepage": "https://github.com/yegao/entrance#readme",
+  "homepage": "https://github.com/yegao/entrance-vue#readme",
   "keywords": [
     "login",
     "register",
