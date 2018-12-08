@@ -1,0 +1,7 @@
+/node_modules/
+/build/
+/config/
+/src
+.idea/
+.postcssrc.js
+.babelrc
